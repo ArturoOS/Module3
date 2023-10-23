@@ -1,0 +1,15 @@
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.AssemblyReference.cache
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\MainWindow.g.cs
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\App.g.cs
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem_MarkupCompile.cache
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem_MarkupCompile.lref
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\MainWindow.baml
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.g.resources
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.cache
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\UX508293\Documents\NET-Basic\Module3\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
